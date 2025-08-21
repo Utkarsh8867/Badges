@@ -82,6 +82,4 @@ diff
 + Mars 2020 Contributor
 
 
-# 📋 Credits
-- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
 
