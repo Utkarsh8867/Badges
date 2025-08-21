@@ -78,8 +78,5 @@ diff
 - GitHub Sponsor
 + Public Sponsor
 
-- Mars 2020 Helicopter Contributor
-+ Mars 2020 Contributor
-
 
 
